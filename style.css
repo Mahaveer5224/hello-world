@@ -26,3 +26,16 @@ img{
 
   border-radius: 10px;
 }
+
+
+@media screen  and (max-width: 375px){
+  .container{
+    margin: 0;
+    padding: 10px;
+
+  }
+  img{
+    width: 340px;
+  }
+ 
+}
